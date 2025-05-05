@@ -19,7 +19,7 @@ title: Germán Martínez # the main title
 tagline: An inside into the mind of a programmer with many other interests. Here you will find posts mainly focused on development, AI, system design and everything that surrounds it, but expect the occasional distraction from the main programming into topics like music, art, philosophy, and the likes. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  music, ai, programming, system design, philosophy, coding, databases, sql, python, data science
+  Here you will find posts mainly focused on development, AI, system design and everything that surrounds it, but expect the occasional distraction from the main programming into topics like music, art, philosophy, and the likes.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
