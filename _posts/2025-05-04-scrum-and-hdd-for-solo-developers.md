@@ -3,7 +3,7 @@ title: How to Use Scrum and Hypothesis-Driven Development to Build a New Product
 date: 2025-05-04 18:15:00 -0300
 categories: [Software Development, Development Frameworks, Product Design and Development, Project Management]
 tags: [agile, scrum, hdd, project-management]
-description: Building a new product, is a complex task. Especially as a solo developer, managing all aspects from planning to execution, is challenging. This post will guide you through using Scrum and Hypothesis-Driven Development (HDD) to streamline the process. These frameworks help prioritize tasks, validate ideas, and deliver value incrementally, even when working alone.
+description: Building a new product is a complex task. Especially as a solo developer, managing all aspects from planning to execution is challenging. This post will guide you through using Scrum and Hypothesis-Driven Development (HDD) to streamline the process. These frameworks help prioritize tasks, validate ideas, and deliver value incrementally, even when working alone.
 ---
 
 ## **Challenges Unique to Solo Developers**
